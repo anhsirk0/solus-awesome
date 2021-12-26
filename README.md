@@ -14,7 +14,7 @@ make the script executable
 ```bash
 chmod +x build_awesome.sh
 ```
-final run the script
+finally run the script
 ```bash
 ./build_awesome.sh
 ```
